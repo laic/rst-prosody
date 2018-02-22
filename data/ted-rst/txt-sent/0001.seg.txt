@@ -1,0 +1,264 @@
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.1	p.1	t.1	18	19	Thank you so much, Chris.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.2	p.1	t.2	19	23	And it's truly a great honor to have the opportunity
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.3	p.1	t.3	23	26	to come to this stage twice; I'm extremely grateful.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.4	p.1	t.4	26	30	I have been blown away by this conference,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.5	p.1	t.5	30	35	and I want to thank all of you for the many nice comments
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.6	p.1	t.6	35	38	about what I had to say the other night.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.7	p.1	t.7	38	40	And I say that sincerely,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.8	p.1	t.8	40	42	partly because
+AlGore_2006	0001	AG	AlGore_2006.AG.p.1.seg.9	p.1	t.9	42	44	I need that.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.3.seg.11	p.3	t.11	49	51	Put yourselves in my position.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.5.seg.13	p.5	t.13	58	61	I flew on Air Force Two for eight years.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.7.seg.15	p.7	t.15	63	66	Now I have to take off my shoes or boots to get on an airplane!
+AlGore_2006	0001	AG	AlGore_2006.AG.p.10.seg.18	p.10	t.18	75	77	I'll tell you one quick story
+AlGore_2006	0001	AG	AlGore_2006.AG.p.10.seg.19	p.10	t.19	77	80	to illustrate what that's been like for me.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.12.seg.21	p.12	t.21	82	85	It's a true story every bit of this is true.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.13.seg.22	p.13	t.22	85	88	Soon after Tipper and I left the White House
+AlGore_2006	0001	AG	AlGore_2006.AG.p.15.seg.24	p.15	t.24	90	95	we were driving from our home in Nashville to a little farm we have
+AlGore_2006	0001	AG	AlGore_2006.AG.p.15.seg.25	p.15	t.25	95	99	50 miles east of Nashville.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.15.seg.26	p.15	t.26	99	100	Driving ourselves.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.17.seg.28	p.17	t.28	103	105	I know it sounds like a little thing to you, but
+AlGore_2006	0001	AG	AlGore_2006.AG.p.19.seg.30	p.19	t.30	111	116	I looked in the rear-view mirror
+AlGore_2006	0001	AG	AlGore_2006.AG.p.19.seg.31	p.19	t.31	116	120	and all of a sudden it just hit me.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.19.seg.32	p.19	t.32	120	121	There was no motorcade back there.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.21.seg.34	p.21	t.34	124	126	You've heard of phantom limb pain?
+AlGore_2006	0001	AG	AlGore_2006.AG.p.23.seg.36	p.23	t.36	131	135	This was a rented Ford Taurus.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.38	p.25	t.38	138	140	It was dinnertime,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.39	p.25	t.39	140	143	and we started looking for a place to eat.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.40	p.25	t.40	143	145	We were on I-40.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.41	p.25	t.41	145	148	We got to Exit 238, Lebanon, Tennessee.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.42	p.25	t.42	148	151	We got off the exit, we found a Shoney's restaurant.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.43	p.25	t.43	151	156	Low-cost family restaurant chain, for those of you who don't know it.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.44	p.25	t.44	156	161	We went in and sat down at the booth, and the waitress came over,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.25.seg.45	p.25	t.45	161	163	made a big commotion over Tipper.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.27.seg.47	p.27	t.47	165	169	She took our order, and then went to the couple in the booth next to us,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.27.seg.48	p.27	t.48	169	171	and she lowered her voice so much,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.27.seg.49	p.27	t.49	171	174	I had to really strain to hear what she was saying.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.27.seg.50	p.27	t.50	174	177	And she said "Yes, that's former Vice President Al Gore
+AlGore_2006	0001	AG	AlGore_2006.AG.p.27.seg.51	p.27	t.51	177	179	and his wife, Tipper."
+AlGore_2006	0001	AG	AlGore_2006.AG.p.27.seg.52	p.27	t.52	179	180	And the man said,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.27.seg.53	p.27	t.53	180	182	"He's come down a long way, hasn't he?"
+AlGore_2006	0001	AG	AlGore_2006.AG.p.30.seg.56	p.30	t.56	192	195	There's been kind of a series of epiphanies.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.58	p.32	t.58	196	200	The very next day, continuing the totally true story,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.59	p.32	t.59	200	206	I got on a G-V to fly to Africa to make a speech in Nigeria,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.60	p.32	t.60	206	209	in the city of Lagos, on the topic of energy.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.61	p.32	t.61	209	213	And I began the speech by telling them the story
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.62	p.32	t.62	213	216	of what had just happened the day before in Nashville.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.63	p.32	t.63	216	219	And I told it pretty much the same way I've just shared it with you:
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.64	p.32	t.64	219	221	Tipper and I were driving ourselves,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.65	p.32	t.65	221	223	Shoney's, low-cost family restaurant chain,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.66	p.32	t.66	223	225	what the man said they laughed.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.67	p.32	t.67	225	229	I gave my speech, then went back out to the airport to fly back home.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.68	p.32	t.68	229	231	I fell asleep on the plane
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.69	p.32	t.69	231	233	until, during the middle of the night, we landed
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.70	p.32	t.70	233	236	on the Azores Islands for refueling.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.71	p.32	t.71	236	239	I woke up, they opened the door, I went out to get some fresh air,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.72	p.32	t.72	239	243	and I looked, and there was a man running across the runway.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.73	p.32	t.73	243	246	And he was waving a piece of paper, and he was yelling,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.74	p.32	t.74	246	250	"Call Washington! Call Washington!"
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.75	p.32	t.75	250	253	And I thought to myself, in the middle of the night,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.76	p.32	t.76	253	254	in the middle of the Atlantic,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.77	p.32	t.77	254	257	what in the world could be wrong in Washington?
+AlGore_2006	0001	AG	AlGore_2006.AG.p.32.seg.78	p.32	t.78	257	259	Then I remembered it could be a bunch of things.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.34.seg.80	p.34	t.80	265	266	But what it turned out to be,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.34.seg.81	p.34	t.81	266	270	was that my staff was extremely upset
+AlGore_2006	0001	AG	AlGore_2006.AG.p.34.seg.82	p.34	t.82	270	276	because one of the wire services in Nigeria had already written a story
+AlGore_2006	0001	AG	AlGore_2006.AG.p.34.seg.83	p.34	t.83	276	277	about my speech,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.34.seg.84	p.34	t.84	277	279	and it had already been printed in cities
+AlGore_2006	0001	AG	AlGore_2006.AG.p.34.seg.85	p.34	t.85	279	282	all across the United States of America.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.34.seg.86	p.34	t.86	282	284	It was printed in Monterey, I checked.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.36.seg.88	p.36	t.88	285	288	And the story began,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.36.seg.89	p.36	t.89	288	292	"Former Vice President Al Gore announced in Nigeria yesterday," quote:
+AlGore_2006	0001	AG	AlGore_2006.AG.p.36.seg.90	p.36	t.90	292	296	'My wife Tipper and I have opened a low-cost family restaurant'"
+AlGore_2006	0001	AG	AlGore_2006.AG.p.38.seg.92	p.38	t.92	297	299	"'named Shoney's,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.38.seg.93	p.38	t.93	299	301	and we are running it ourselves.'"
+AlGore_2006	0001	AG	AlGore_2006.AG.p.40.seg.95	p.40	t.95	304	306	Before I could get back to US soil,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.40.seg.96	p.40	t.96	306	310	David Letterman and Jay Leno had already started in on
+AlGore_2006	0001	AG	AlGore_2006.AG.p.40.seg.97	p.40	t.97	310	314	one of them had me in a big white chef's hat,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.40.seg.98	p.40	t.98	314	316	Tipper was saying, "One more burger with fries!"
+AlGore_2006	0001	AG	AlGore_2006.AG.p.42.seg.100	p.42	t.100	317	318	Three days later,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.42.seg.101	p.42	t.101	318	321	I got a nice, long, handwritten letter
+AlGore_2006	0001	AG	AlGore_2006.AG.p.42.seg.102	p.42	t.102	321	325	from my friend and partner and colleague Bill Clinton, saying,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.42.seg.103	p.42	t.103	325	327	"Congratulations on the new restaurant, Al!"
+AlGore_2006	0001	AG	AlGore_2006.AG.p.44.seg.105	p.44	t.105	334	337	We like to celebrate each other's successes in life.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.46.seg.107	p.46	t.107	343	346	I was going to talk about information ecology.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.46.seg.108	p.46	t.108	346	348	But I was thinking that,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.46.seg.109	p.46	t.109	348	352	since I plan to make a lifelong habit of coming back to TED,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.46.seg.110	p.46	t.110	352	354	that maybe I could talk about that another time.
+AlGore_2006	0001	CA	AlGore_2006.CA.p.48.seg.112	p.48	t.112	356	357	It's a deal!
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.114	p.50	t.114	360	364	I want to focus on what many of you have said
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.115	p.50	t.115	364	366	you would like me to elaborate on:
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.116	p.50	t.116	366	371	What can you do about the climate crisis?
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.117	p.50	t.117	371	374	I want to start with a couple of
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.118	p.50	t.118	374	377	I'm going to show some new images,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.119	p.50	t.119	377	383	and I'm going to recapitulate just four or five.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.120	p.50	t.120	383	384	Now, the slide show.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.121	p.50	t.121	384	388	I update the slide show every time I give it.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.122	p.50	t.122	388	389	I add new images,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.123	p.50	t.123	389	392	because I learn more about it every time I give it.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.124	p.50	t.124	392	394	It's like beach-combing, you know?
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.125	p.50	t.125	394	398	Every time the tide comes in and out, you find some more shells.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.126	p.50	t.126	398	404	Just in the last two days, we got the new temperature records in January.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.127	p.50	t.127	404	407	This is just for the United States of America.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.128	p.50	t.128	407	409	Historical average for Januarys is 31 degrees;
+AlGore_2006	0001	AG	AlGore_2006.AG.p.50.seg.129	p.50	t.129	409	413	last month was 39.5 degrees.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.130	p.51	t.130	413	418	Now, I know that you wanted some more bad news about the environment
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.131	p.51	t.131	418	420	I'm kidding.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.132	p.51	t.132	420	423	But these are the recapitulation slides,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.133	p.51	t.133	423	426	and then I'm going to go into new material about what you can do.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.134	p.51	t.134	426	429	But I wanted to elaborate on a couple of these.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.135	p.51	t.135	429	432	First of all, this is where we're projected to go
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.136	p.51	t.136	432	434	with the US contribution to global warming,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.137	p.51	t.137	434	436	under business as usual.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.138	p.51	t.138	436	442	Efficiency in end-use electricity and end-use of all energy
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.139	p.51	t.139	442	443	is the low-hanging fruit.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.140	p.51	t.140	443	448	Efficiency and conservation it's not a cost; it's a profit.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.141	p.51	t.141	448	450	The sign is wrong.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.142	p.51	t.142	450	453	It's not negative; it's positive.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.143	p.51	t.143	453	455	These are investments that pay for themselves.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.51.seg.144	p.51	t.144	455	460	But they are also very effective in deflecting our path.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.145	p.52	t.145	460	464	Cars and trucks I talked about that in the slideshow,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.146	p.52	t.146	464	467	but I want you to put it in perspective.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.147	p.52	t.147	467	472	It's an easy, visible target of concern
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.148	p.52	t.148	472	474	and it should be
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.149	p.52	t.149	474	478	but there is more global warming pollution that comes from buildings
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.150	p.52	t.150	478	481	than from cars and trucks.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.151	p.52	t.151	481	483	Cars and trucks are very significant,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.152	p.52	t.152	483	486	and we have the lowest standards in the world.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.153	p.52	t.153	486	489	And so we should address that. But it's part of the puzzle.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.154	p.52	t.154	489	494	Other transportation efficiency is as important as cars and trucks.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.155	p.52	t.155	494	499	Renewables at the current levels of technological efficiency
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.156	p.52	t.156	499	500	can make this much difference.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.157	p.52	t.157	500	506	And with what Vinod, and John Doerr and others, many of you here
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.158	p.52	t.158	506	509	there are a lot of people directly involved in this
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.159	p.52	t.159	509	511	this wedge is going to grow much more rapidly
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.160	p.52	t.160	511	514	than the current projection shows it.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.161	p.52	t.161	514	519	Carbon Capture and Sequestration that's what CCS stands for
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.162	p.52	t.162	519	526	is likely to become the killer app that will enable us
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.163	p.52	t.163	526	534	to continue to use fossil fuels in a way that is safe.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.164	p.52	t.164	534	535	Not quite there yet.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.52.seg.165	p.52	t.165	535	541	OK. Now, what can you do?
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.166	p.53	t.166	541	544	Reduce emissions in your home.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.167	p.53	t.167	544	549	Most of these expenditures are also profitable.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.168	p.53	t.168	549	551	Insulation, better design.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.169	p.53	t.169	551	554	Buy green electricity where you can.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.170	p.53	t.170	554	558	I mentioned automobiles buy a hybrid.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.171	p.53	t.171	558	560	Use light rail.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.172	p.53	t.172	560	563	Figure out some of the other options that are much better.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.53.seg.173	p.53	t.173	563	565	It's important.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.174	p.54	t.174	565	566	Be a green consumer.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.175	p.54	t.175	566	570	You have choices with everything you buy,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.176	p.54	t.176	570	573	between things that have a harsh effect,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.177	p.54	t.177	573	579	or a much less harsh effect on the global climate crisis.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.178	p.54	t.178	579	581	Consider this:
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.179	p.54	t.179	581	585	Make a decision to live a carbon-neutral life.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.180	p.54	t.180	585	588	Those of you who are good at branding,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.181	p.54	t.181	588	590	I'd love to get your advice and help
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.182	p.54	t.182	590	596	on how to say this in a way that connects with the most people.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.183	p.54	t.183	596	598	It is easier than you think.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.184	p.54	t.184	598	602	It really is.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.185	p.54	t.185	602	605	A lot of us in here have made that decision,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.186	p.54	t.186	605	607	and it is really pretty easy.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.187	p.54	t.187	607	613	It means reduce your carbon dioxide emissions
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.188	p.54	t.188	613	616	with the full range of choices that you make,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.189	p.54	t.189	616	620	and then purchase or acquire offsets
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.190	p.54	t.190	620	623	for the remainder that you have not completely reduced.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.54.seg.191	p.54	t.191	623	630	And what it means is elaborated at climatecrisis.net.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.192	p.55	t.192	630	634	There is a carbon calculator.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.193	p.55	t.193	634	638	Participant Productions convened
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.194	p.55	t.194	638	640	with my active involvement
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.195	p.55	t.195	640	643	the leading software writers in the world,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.196	p.55	t.196	643	646	on this arcane science of carbon calculation,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.197	p.55	t.197	646	651	to construct a consumer-friendly carbon calculator.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.198	p.55	t.198	651	657	You can very precisely calculate what your CO2 emissions are,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.199	p.55	t.199	657	660	and then you will be given options to reduce.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.200	p.55	t.200	660	664	And by the time the movie comes out in May,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.201	p.55	t.201	664	666	this will be updated to 2.0,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.55.seg.202	p.55	t.202	666	670	and we will have click-through purchases of offsets.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.203	p.56	t.203	670	673	Next, consider making your business carbon-neutral.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.204	p.56	t.204	673	674	Again, some of us have done that,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.205	p.56	t.205	674	678	and it's not as hard as you think.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.206	p.56	t.206	678	682	Integrate climate solutions into all of your innovations,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.207	p.56	t.207	682	684	whether you are from the technology,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.208	p.56	t.208	684	688	or entertainment, or design and architecture community.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.209	p.56	t.209	688	690	Invest sustainably.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.210	p.56	t.210	690	692	Majora mentioned this.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.211	p.56	t.211	692	699	Listen, if you have invested money with managers who you compensate
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.212	p.56	t.212	699	701	on the basis of their annual performance,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.213	p.56	t.213	701	707	don't ever again complain about quarterly report CEO management.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.214	p.56	t.214	707	711	Over time, people do what you pay them to do.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.215	p.56	t.215	711	716	And if they judge how much they're going to get paid
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.216	p.56	t.216	716	719	on your capital that they've invested,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.217	p.56	t.217	719	721	based on the short-term returns,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.218	p.56	t.218	721	725	you're going to get short-term decisions.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.56.seg.219	p.56	t.219	725	727	A lot more to be said about that.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.220	p.57	t.220	727	729	Become a catalyst of change.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.221	p.57	t.221	729	734	Teach others, learn about it, talk about it.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.222	p.57	t.222	734	737	The movie is a movie version of the slideshow
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.223	p.57	t.223	737	741	I gave two nights ago, except it's a lot more entertaining.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.224	p.57	t.224	741	744	And it comes out in May.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.225	p.57	t.225	744	750	Many of you here have the opportunity to ensure that a lot of people see it.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.226	p.57	t.226	750	754	Consider sending somebody to Nashville.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.227	p.57	t.227	754	756	Pick well.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.228	p.57	t.228	756	760	And I am personally going to train people to give this slideshow
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.229	p.57	t.229	760	765	re-purposed, with some of the personal stories obviously replaced
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.230	p.57	t.230	765	767	with a generic approach,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.231	p.57	t.231	767	770	and it's not just the slides, it's what they mean.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.232	p.57	t.232	770	772	And it's how they link together.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.233	p.57	t.233	772	776	And so I'm going to be conducting a course this summer
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.234	p.57	t.234	776	780	for a group of people that are nominated by different folks
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.235	p.57	t.235	780	782	to come and then give it en masse,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.236	p.57	t.236	782	785	in communities all across the country,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.237	p.57	t.237	785	789	and we're going to update the slideshow for all of them every single week,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.238	p.57	t.238	789	792	to keep it right on the cutting edge.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.239	p.57	t.239	792	796	Working with Larry Lessig, it will be, somewhere in that process,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.240	p.57	t.240	796	801	posted with tools and limited-use copyrights,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.57.seg.241	p.57	t.241	801	807	so that young people can remix it and do it in their own way.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.243	p.59	t.243	810	811	Where did anybody get the idea
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.244	p.59	t.244	811	814	that you ought to stay arm's length from politics?
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.245	p.59	t.245	814	816	It doesn't mean that if you're a Republican,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.246	p.59	t.246	816	818	that I'm trying to convince you to be a Democrat.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.247	p.59	t.247	818	820	We need Republicans as well.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.248	p.59	t.248	820	822	This used to be a bipartisan issue,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.249	p.59	t.249	822	824	and I know that in this group it really is.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.250	p.59	t.250	824	826	Become politically active.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.251	p.59	t.251	826	829	Make our democracy work the way it's supposed to work.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.252	p.59	t.252	829	835	Support the idea of capping carbon dioxide emissions
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.253	p.59	t.253	835	837	global warming pollution and trading it.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.254	p.59	t.254	837	842	Here's why: as long as the United States is out of the world system,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.255	p.59	t.255	842	843	it's not a closed system.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.256	p.59	t.256	843	847	Once it becomes a closed system, with US participation,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.257	p.59	t.257	847	850	then everybody who's on a board of directors
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.258	p.59	t.258	850	853	how many people here serve on the board of directors
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.259	p.59	t.259	853	855	of a corporation?
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.260	p.59	t.260	855	856	Once it's a closed system,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.261	p.59	t.261	856	863	you will have legal liability if you do not urge your CEO
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.262	p.59	t.262	863	867	to get the maximum income from reducing and trading the carbon emissions
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.263	p.59	t.263	867	868	that can be avoided.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.264	p.59	t.264	868	873	The market will work to solve this problem
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.265	p.59	t.265	873	877	if we can accomplish this.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.266	p.59	t.266	877	880	Help with the mass persuasion campaign that will start this spring.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.267	p.59	t.267	880	883	We have to change the minds of the American people.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.268	p.59	t.268	883	886	Because presently, the politicians do not have permission
+AlGore_2006	0001	AG	AlGore_2006.AG.p.59.seg.269	p.59	t.269	886	888	to do what needs to be done.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.270	p.60	t.270	888	893	And in our modern country, the role of logic and reason no longer includes
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.271	p.60	t.271	893	896	mediating between wealth and power the way it once did.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.272	p.60	t.272	896	902	It's now repetition of short, hot-button, 30-second, 28-second television ads.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.273	p.60	t.273	902	905	We have to buy a lot of those ads.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.274	p.60	t.274	905	909	Let's re-brand global warming, as many of you have suggested.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.275	p.60	t.275	909	912	I like "climate crisis" instead of "climate collapse,"
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.276	p.60	t.276	912	914	but again, those of you who are good at branding,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.277	p.60	t.277	914	916	I need your help on this.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.278	p.60	t.278	916	920	Somebody said the test we're facing now, a scientist told me,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.279	p.60	t.279	920	924	is whether the combination of an opposable thumb
+AlGore_2006	0001	AG	AlGore_2006.AG.p.60.seg.280	p.60	t.280	924	926	and a neocortex is a viable combination.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.62.seg.282	p.62	t.282	928	933	That's really true.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.283	p.63	t.283	933	936	I said the other night, and I'll repeat now:
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.284	p.63	t.284	936	938	this is not a political issue.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.285	p.63	t.285	938	944	Again, the Republicans here this shouldn't be partisan.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.286	p.63	t.286	944	948	You have more influence than some of us who are Democrats do.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.287	p.63	t.287	948	949	This is an opportunity.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.288	p.63	t.288	949	954	Not just this, but connected to the ideas that are here,
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.289	p.63	t.289	954	957	to bring more coherence to them.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.63.seg.290	p.63	t.290	957	959	We are one.
+AlGore_2006	0001	AG	AlGore_2006.AG.p.64.seg.291	p.64	t.291	959	961	Thank you very much, I appreciate it.

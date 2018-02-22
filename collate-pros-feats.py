@@ -66,8 +66,8 @@ def main():
                      help='conversation to collate')
         group.add_option('--segtype', metavar='conv', default="sent", dest='segtype',
                      help='segment type (suffix)')
-        group.add_option('--info', metavar='FILE', default='/disk/data3/clai/data/ted-trans/info/id_dname_year_sname', dest='info',
-                     help='Info file')
+        #group.add_option('--info', metavar='FILE', default='/disk/data3/clai/data/ted-trans/info/id_dname_year_sname', dest='info',
+        #             help='Info file')
         group.add_option('--datadir', metavar='DIR', default='/disk/data3/clai/data/ted-trans/derived/segs/', dest='datadir',
                      help='Word timings')
         group.add_option('-d', '--debug', action='count', default=0,

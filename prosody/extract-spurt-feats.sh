@@ -5,6 +5,7 @@
 #PRAAT=/exports/home/clai/.local/bin/praat		#/exports/home/clai/.local/bin/praat
 #PRAAT=/disk/data3/clai/venv/bin/praat
 PRAAT=/home/clai/bin/praat
+echo "USING `which praat`"
 spurtfile=$1		## Segmentation file, see for example ~/lubbock/data/ted-trans/derived/alignseg/${ALTCONV}.alignseg.txt" 
 spurtdir=$2 		## This is the output directory 	
 indir=$3		## i.e. where the wav files are    
@@ -41,7 +42,7 @@ do
 	wavfile=`echo $line | cut -d " " -f 9`
 	outfile=$niteid
 
-	echo  "./extract-feats.praat $wavfile $outfile $start $end $indir $outdir $conv"
+	#echo  "./extract-feats.praat $wavfile $outfile $start $end $indir $outdir $conv"
 	$PRAAT  ./extract-feats.praat $wavfile $outfile $start $end $indir $outdir $conv 
 
 done  

@@ -1,34 +1,38 @@
 #!/bin/bash
 
 
-
+## DEFAULTS
 RSCRIPTS=./
 ALTCONV=0001
-RSTDIR=/disk/data3/clai/data/ted-rst/
 WAVDIR=/disk/data3/clai/data/ted-rst/wav/
-DATADIR=/disk/data3/clai/data/ted-rst/derived
 SPURTSFILE=/disk/data3/clai/data/ted-rst/derived/alignseg/${ALTCONV}.alignseg.txt
+WORDFILE=/disk/data3/clai/data/ted-rst/derived/alignword/${ALTCONV}.alignword.txt
+EDUFILE=/disk/data3/clai/data/ted-rst/derived/alignword/${ALTCONV}.alignword.txt
+## This is the working directory
+## Outputs will go in $DATADIR/segs/f0 etc
+DATADIR=/disk/data3/clai/data/ted-rst/derived
 #ALTCONV=$1  ## the conversation name e.g. 0001
 
-
-TEMP=`getopt -o -i: --long conv:,rscripts:,rstdir:,aligndir:,outdir:,spurtsfile:,filter: -n 'rst-prosdy.sh' -- "$@"`
+## OPTIONS
+TEMP=`getopt -o -i: --long conv:,rscripts:,wavdir:,workdir:,spurtsfile:,wordfile:,edufile: -n 'rst-prosdy.sh' -- "$@"`
 eval set -- "$TEMP"
 
 # extract options and their arguments into variables.
 while true ; do
     case "$1" in
         --rscripts)      RSCRIPTS="$2"; shift 2;;
-        --rstdir)        RSTDIR="$2"; shift 2;;
         --wavdir)        WAVDIR="$2"; shift 2;;
         --workdir)       DATADIR="$2"; shift 2;;
         --spurtsfile)    SPURTSFILE="$2"; shift 2;;
+        --wordfile)    	 WORDFILE="$2"; shift 2;;
+        --edufile)    	 EDUFILE="$2"; shift 2;;
         --conv)          ALTCONV="$2"; shift 2;;
         --) shift ; break ;;
         *) echo "Unknown option?" ; echo $1 ; exit 1 ;;
     esac
 done
 
-echo "XXXX prosody/proc-conv-rst.sh"
+echo "Running prosody/proc-conv-rst.sh"
 
 ## Output here
 SEGSDIR=$DATADIR/segs/
@@ -71,12 +75,12 @@ Rscript $RSCRIPTS/get-pros-norm.r $CONV i0 $SEGSDIR $SPURTSFILE
 
 ## Get aggregate features over various segment size
 echo "*** word aggs***"
-WORDFILE=$DATADIR/alignword/$ALTCONV.alignword.txt
+#WORDFILE=$DATADIR/alignword/$ALTCONV.alignword.txt
 Rscript $RSCRIPTS/get-pros-window.r $CONV f0 $SEGSDIR $WORDFILE
 Rscript $RSCRIPTS/get-pros-window.r $CONV i0 $SEGSDIR $WORDFILE
 
 echo "*** edu aggs***"
-EDUFILE=$DATADIR/alignedu/$ALTCONV.alignedu.txt
+#EDUFILE=$DATADIR/alignedu/$ALTCONV.alignedu.txt
 Rscript $RSCRIPTS/get-pros-window.r $CONV f0 $SEGSDIR $EDUFILE
 Rscript $RSCRIPTS/get-pros-window.r $CONV i0 $SEGSDIR $EDUFILE
 

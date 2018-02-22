@@ -2,7 +2,7 @@
 
 
 INDIR=/disk/data3/clai/data/ted-rst/rst-align/
-ALIGNDIR=/disk/data3/clai/data/ted-rst/derived/alignword/
+ALIGNDIR=/disk/data3/clai/data/ted-rst/alignments/alignword/
 METADIR=/disk/data3/clai/data/ted-rst/RST/
 OUTDIR=/disk/data3/clai/data/ted-rst/derived/alignedu
 METAPREFIX=ParsedProc

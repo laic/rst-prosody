@@ -5,8 +5,7 @@
 ALTCONV=0001
 CONV="AlGore_2006"
 
-TEDDIR=/disk/data3/clai/data/ted-trans/
-RSTDIR=/disk/data3/clai/data/ted-rst/
+RSTDIR=/home/clai/discourse/rst-prosody/data/ted-rst/
 PROSSCRIPTS=./prosody/
 WORKDIR=$RSTDIR/derived/
 
@@ -17,7 +16,7 @@ WORKDIR=$RSTDIR/derived/
 ## TODO: This throws a lot of pandas warnings at the moment.  
 #  It's not actually causing errors but maybe fix the syntax so the warnings go
 #  away?
-./proc-rst-parse.sh --indir=$TEDDIR/TedFastNLPProcessor/ --outdir=$RSTDIR/RST --filter=$ALTCONV
+./proc-rst-parse.sh --indir=$RSTDIR/TedFastNLPProcessor/ --outdir=$RSTDIR/RST --filter=$ALTCONV
 
 
 ## 2) Match words in EDUs to word level timings
@@ -28,14 +27,23 @@ WORKDIR=$RSTDIR/derived/
 
 ## 3) Now get edu timings 
 ## output = derived/alignedu/X.alignedu.txt
-./get-rst-segs.sh --filter=0001
+./get-rst-segs.sh --indir=$RSTDIR/rst-align \
+			--aligndir=$RSTDIR/alignments/alignword \
+			--metadir=$RSTDIR/RST \
+			--outdir=$RSTDIR/derived/alignedu \
+			--filter=0001
 
 
-## 4) Extract aggregate prosodic features the normal way (whatever that is!)
-
+# 4) Extract aggregate prosodic features the normal way (whatever that is!)
 (cd $PROSSCRIPTS
 echo `pwd`
-./proc-conv-rst.sh --conv=$ALTCONV 
+## There are other directory options you might want to look at in this script
+./proc-conv-rst.sh --conv=$ALTCONV \
+		--workdir=$WORKDIR \
+		--wavdir=$RSTDIR/wav/ \
+		--spurtsfile=$RSTDIR/alignments/alignseg/$ALTCONV.alignseg.txt \
+		--wordfile=$RSTDIR/alignments/alignword/$ALTCONV.alignword.txt \
+		--edufile=$RSTDIR/derived/alignedu/$ALTCONV.alignedu.txt 
 )
 
 
@@ -70,7 +78,11 @@ cp $WORKDIR/segs/merged-edu/$CONV.alignedu.allpros.txt $WORKDIR/segs/merged-edu/
 ## visualizing the RST tree with javascript d3 or similar.
 ## The featfile options determines which features will be kept in the final output.
 
-./augment-pros.sh --featfile=$RSTDIR/featsets/edu-pros.txt --filter=$ALTCONV
+./augment-pros.sh --featfile=$RSTDIR/featsets/edu-pros.txt --filter=$ALTCONV \
+		--prosdir=$WORKDIR/segs/merged-edu/ \
+		--jsondir=$RSTDIR/RST/ \
+		--outdir=$WORKDIR/segs/merged-edu-meta/ 
+	
 
 
 

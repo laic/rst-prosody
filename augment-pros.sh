@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 RSTDIR=/disk/data3/clai/data/ted-rst/
 PROSDIR=$RSTDIR/derived/segs/merged-edu
 JSONDIR=$RSTDIR/RST/
@@ -19,7 +18,6 @@ eval set -- "$TEMP"
 # extract options and their arguments into variables.
 while true ; do
     case "$1" in
-        --datadir)      INDIR="$2"; shift 2;;
         --prosdir)      PROSDIR="$2"; shift 2;;
         --jsondir)      JSONDIR="$2"; shift 2;;
         --metadir)      METADIR="$2"; shift 2;;

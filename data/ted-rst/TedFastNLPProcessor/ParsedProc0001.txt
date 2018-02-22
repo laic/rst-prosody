@@ -1,0 +1,636 @@
+Some(topic-change
+  elaboration (LeftToRight)
+    elaboration (LeftToRight)
+      elaboration (LeftToRight)
+        TEXT:Thank you so much , Chris .
+        elaboration (LeftToRight)
+          elaboration (LeftToRight)
+            TEXT:And it 's truly a great honor
+            elaboration (LeftToRight)
+              TEXT:to have the opportunity
+              TEXT:to come to this stage twice .
+          TEXT:I 'm extremely grateful .
+      elaboration (LeftToRight)
+        elaboration (LeftToRight)
+          joint
+            TEXT:I have been blown away by this conference ,
+            elaboration (LeftToRight)
+              TEXT:and I want to thank all of you for the many nice comments
+              TEXT:about what I had to say the other night .
+          elaboration (LeftToRight)
+            attribution (RightToLeft)
+              TEXT:And I say
+              TEXT:that sincerely , partly because I need that !
+            elaboration (LeftToRight)
+              TEXT:Put yourselves in my position !
+              TEXT:I flew on Air Force Two for eight years .
+        elaboration (LeftToRight)
+          enablement (LeftToRight)
+            TEXT:Now I have to take off my shoes or boots
+            TEXT:to get on an airplane !
+          TEXT:I 'll tell you one quick story to illustrate what that 's been like for me .
+    elaboration (LeftToRight)
+      evaluation (LeftToRight)
+        explanation (LeftToRight)
+          TEXT:It 's a true story every bit of this is true .
+          topic-comment
+            attribution (RightToLeft)
+              TEXT:Soon after Tipper and I left the White House
+              attribution (RightToLeft)
+                TEXT:we were driving from our home in Nashville to a little farm
+                TEXT:we have 50 miles east of Nashville driving ourselves .
+            contrast
+              attribution (RightToLeft)
+                TEXT:I know
+                TEXT:it sounds like a little thing to you ,
+              attribution (RightToLeft)
+                TEXT:but I looked in the rearview mirror and all of a sudden
+                TEXT:it just hit me .
+        elaboration (LeftToRight)
+          elaboration (LeftToRight)
+            TEXT:There was no motorcade back there .
+            elaboration (LeftToRight)
+              elaboration (LeftToRight)
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    elaboration (LeftToRight)
+                      TEXT:You 've heard of phantom limb pain ?
+                      TEXT:This was a rented Ford Taurus .
+                    elaboration (LeftToRight)
+                      joint
+                        TEXT:It was dinnertime ,
+                        elaboration (LeftToRight)
+                          TEXT:and we started looking for a place
+                          TEXT:to eat .
+                      TEXT:We were on I-40 .
+                  TEXT:We got to Exit 238 , Lebanon , Tennessee .
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    TEXT:We got off the exit ,
+                    elaboration (LeftToRight)
+                      TEXT:started looking for a
+                      TEXT:we found a Shoney 's restaurant .
+                  elaboration (LeftToRight)
+                    TEXT:Low-cost family restaurant chain , for those of you
+                    TEXT:who do n't know it .
+              elaboration (LeftToRight)
+                attribution (LeftToRight)
+                  joint
+                    joint
+                      TEXT:We went in
+                      TEXT:and sat down at the booth ,
+                    TEXT:and the waitress came over ,
+                  TEXT:made a big commotion over Tipper .
+                joint
+                  TEXT:She took our order ,
+                  joint
+                    TEXT:and then went to the couple in the booth next to us ,
+                    elaboration (LeftToRight)
+                      TEXT:and she lowered her voice so much
+                      TEXT:I had to really strain to hear what she was saying .
+          elaboration (LeftToRight)
+            joint
+              attribution (RightToLeft)
+                TEXT:She said
+                TEXT:`` Yes , that 's former Vice President Al Gore and his wife Tipper . ''
+              attribution (RightToLeft)
+                TEXT:And the man said ,
+                joint
+                  TEXT:`` He 's come down a long way ,
+                  TEXT:has n't he ? ''
+            TEXT:There 's been kind of a series of epiphanies .
+      joint
+        elaboration (LeftToRight)
+          same-unit
+            TEXT:The very next day ,
+            background (RightToLeft)
+              TEXT:continuing a totally true story ,
+              TEXT:I got on a G-5 to fly to Africa to make a speech in Nigeria , in the city of Lagos , on the topic of energy .
+          manner-means (LeftToRight)
+            TEXT:I began the speech
+            elaboration (LeftToRight)
+              TEXT:by telling them the story
+              TEXT:of what had just happened the day before in Nashville .
+        joint
+          elaboration (LeftToRight)
+            elaboration (LeftToRight)
+              TEXT:I told it pretty much the same way
+              TEXT:I 've just shared it with you :
+            attribution (RightToLeft)
+              TEXT:Tipper and I were driving ourselves ,
+              elaboration (LeftToRight)
+                TEXT:Shoney 's , low-cost family restaurant chain ,
+                attribution (RightToLeft)
+                  TEXT:what the man said
+                  TEXT:they laughed .
+          joint
+            temporal
+              TEXT:I gave my speech ,
+              enablement (LeftToRight)
+                TEXT:then went back out to the airport
+                TEXT:to fly back home .
+            joint
+              elaboration (LeftToRight)
+                contrast (RightToLeft)
+                  elaboration (LeftToRight)
+                    attribution (LeftToRight)
+                      explanation (LeftToRight)
+                        TEXT:I fell asleep on the plane ,
+                        TEXT:until during the middle of the night ,
+                      TEXT:we landed on the Azores Islands for refueling .
+                    elaboration (LeftToRight)
+                      attribution (RightToLeft)
+                        TEXT:I woke up ,
+                        joint
+                          TEXT:they opened the door ,
+                          joint
+                            TEXT:I went out to get some fresh air ,
+                            elaboration (LeftToRight)
+                              TEXT:and I looked and there was a man
+                              TEXT:running across the runway .
+                      temporal
+                        elaboration (LeftToRight)
+                          attribution (RightToLeft)
+                            joint
+                              TEXT:And he was waving a piece of paper ,
+                              TEXT:and he was yelling ,
+                            TEXT:`` Call Washington !
+                          TEXT:Call Washington ! ''
+                        temporal
+                          attribution (RightToLeft)
+                            TEXT:And I thought to myself , in the middle of the night , in the middle of the Atlantic ,
+                            TEXT:what in the world could be wrong in Washington ?
+                          attribution (RightToLeft)
+                            TEXT:Then I remembered
+                            TEXT:it could be a bunch of things .
+                  attribution (RightToLeft)
+                    TEXT:But what it turned out to be was
+                    explanation (LeftToRight)
+                      TEXT:that my staff was extremely upset
+                      TEXT:because one of the wire services in Nigeria had already written a story about my speech .
+                attribution (LeftToRight)
+                  attribution (RightToLeft)
+                    TEXT:And it had already been printed in cities all across the United States of America
+                    TEXT:it was printed in Monterey ,
+                  TEXT:I checked .
+              joint
+                attribution (RightToLeft)
+                  TEXT:And the story began ,
+                  joint
+                    elaboration (LeftToRight)
+                      TEXT:`` Former Vice President Al Gore announced in Nigeria yesterday , ` My wife Tipper and I have opened a low-cost family restaurant ,
+                      TEXT:named Shoney 's ,
+                    TEXT:and we are running it ourselves . ' ''
+                elaboration (LeftToRight)
+                  TEXT:Before I could get back to U.S. soil , David Letterman and Jay Leno had already started in on one of them had me in a big white chef 's hat ,
+                  elaboration (LeftToRight)
+                    elaboration (LeftToRight)
+                      elaboration (LeftToRight)
+                        elaboration (LeftToRight)
+                          attribution (RightToLeft)
+                            TEXT:Tipper was saying ,
+                            TEXT:`` One more burger , with fries ! ''
+                          elaboration (LeftToRight)
+                            attribution (RightToLeft)
+                              TEXT:Three days later , I got a nice , long , handwritten letter from my friend and partner and colleague Bill Clinton saying ,
+                              TEXT:`` Congratulations on the new restaurant , Al ! ''
+                            TEXT:We like to celebrate each other 's successes in life .
+                        TEXT:I was going to talk about information ecology .
+                      explanation (LeftToRight)
+                        attribution (RightToLeft)
+                          TEXT:But I was thinking
+                          same-unit
+                            TEXT:that
+                            contrast (RightToLeft)
+                              elaboration (LeftToRight)
+                                TEXT:since I plan to make a lifelong habit
+                                TEXT:of coming back to TED ,
+                              TEXT:that maybe I could talk about that another time .
+                        elaboration (LeftToRight)
+                          TEXT:It 's a deal !
+                          attribution (RightToLeft)
+                            TEXT:I want to focus on what many of you have said
+                            TEXT:you would like me to elaborate on .
+                    joint
+                      TEXT:What can you do about the climate crisis ?
+                      joint
+                        TEXT:I want to start with I 'm going to show some new images ,
+                        TEXT:and I 'm going to recapitulate just four or five .
+  summary (LeftToRight)
+    elaboration (LeftToRight)
+      TEXT:Now , the slide show .
+      elaboration (LeftToRight)
+        TEXT:I update the slide show every time
+        TEXT:I give it .
+    elaboration (LeftToRight)
+      elaboration (LeftToRight)
+        elaboration (LeftToRight)
+          elaboration (LeftToRight)
+            explanation (LeftToRight)
+              elaboration (LeftToRight)
+                explanation (LeftToRight)
+                  TEXT:I add new images
+                  elaboration (LeftToRight)
+                    TEXT:because I learn more about it every time
+                    TEXT:I give it .
+                topic-comment
+                  attribution (LeftToRight)
+                    TEXT:It 's like beachcombing ,
+                    TEXT:you know ?
+                  same-unit
+                    elaboration (LeftToRight)
+                      TEXT:Every time
+                      TEXT:the tide comes in and out ,
+                    TEXT:you find some more shells .
+              joint
+                elaboration (LeftToRight)
+                  TEXT:Just in the last two days , we got the new temperature records in January .
+                  elaboration (LeftToRight)
+                    elaboration (LeftToRight)
+                      TEXT:This is just for the United States of America .
+                      TEXT:Historical average for January is 31 degrees .
+                    TEXT:Last month was 39.5 degrees .
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    attribution (RightToLeft)
+                      TEXT:Now , I know
+                      elaboration (LeftToRight)
+                        TEXT:that you wanted some more bad news about the environment
+                        temporal
+                          contrast (RightToLeft)
+                            TEXT:I 'm kidding
+                            TEXT:but these are the recapitulation slides ,
+                          elaboration (LeftToRight)
+                            TEXT:and then I 'm going to go into new material
+                            TEXT:about what you can do .
+                    TEXT:But I wanted to elaborate on a couple of these .
+                  joint
+                    evaluation (LeftToRight)
+                      elaboration (LeftToRight)
+                        contrast
+                          elaboration (LeftToRight)
+                            elaboration (LeftToRight)
+                              elaboration (LeftToRight)
+                                TEXT:First of all , this is where we 're projected to go with the U.S. contribution to global warming , under business as usual .
+                                TEXT:Efficiency in end-use electricity and end-use of all energy is the low-hanging fruit .
+                              elaboration (LeftToRight)
+                                TEXT:Efficiency and conservation :
+                                joint
+                                  TEXT:it 's not a cost ;
+                                  TEXT:it 's a profit .
+                            elaboration (LeftToRight)
+                              TEXT:The sign is wrong .
+                              elaboration (LeftToRight)
+                                elaboration (LeftToRight)
+                                  TEXT:It 's not negative ;
+                                  TEXT:it 's positive .
+                                elaboration (LeftToRight)
+                                  TEXT:These are investments
+                                  TEXT:that pay for themselves .
+                          TEXT:But they are also very effective in deflecting our path .
+                        contrast
+                          elaboration (LeftToRight)
+                            TEXT:Cars and trucks
+                            TEXT:I talked about that in the slideshow ,
+                          TEXT:but I want you to put it in perspective .
+                      contrast (RightToLeft)
+                        joint
+                          TEXT:It 's an easy , visible target of concern ,
+                          TEXT:and it should be ,
+                        elaboration (LeftToRight)
+                          TEXT:but there is more global warming pollution
+                          TEXT:that comes from buildings than from cars and trucks .
+                    joint
+                      joint
+                        TEXT:Cars and trucks are very significant ,
+                        joint
+                          TEXT:and we have the lowest standards in the world ,
+                          TEXT:and so we should address that .
+                      joint
+                        TEXT:But it 's part of the puzzle .
+                        joint
+                          TEXT:Other transportation efficiency is as important as cars and trucks !
+                          joint
+                            TEXT:Renewables at the current levels of technological efficiency can make this much difference ,
+                            TEXT:and with what Vinod , and John Doerr , and others , many of you here a lot of people directly involved in this this wedge is going to grow much more rapidly than the current projection shows it .
+            elaboration (LeftToRight)
+              elaboration (LeftToRight)
+                elaboration (LeftToRight)
+                  joint
+                    elaboration (LeftToRight)
+                      elaboration (LeftToRight)
+                        elaboration (LeftToRight)
+                          TEXT:Carbon Capture and Sequestration
+                          elaboration (LeftToRight)
+                            TEXT:that 's what CCS stands for is likely to become the killer app
+                            elaboration (LeftToRight)
+                              TEXT:that will enable us to continue to use fossil fuels in a way
+                              TEXT:that is safe .
+                        TEXT:Not quite there yet .
+                      TEXT:OK .
+                    joint
+                      TEXT:Now , what can you do ?
+                      TEXT:Reduce emissions in your home .
+                  explanation (LeftToRight)
+                    TEXT:Most of these expenditures are also profitable .
+                    elaboration (LeftToRight)
+                      background (LeftToRight)
+                        TEXT:Insulation , better design , buy green electricity
+                        TEXT:where you can .
+                      attribution (RightToLeft)
+                        TEXT:I mentioned
+                        TEXT:automobiles buy a hybrid .
+                TEXT:Use light rail .
+              elaboration (LeftToRight)
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    TEXT:Figure out some of the other options
+                    TEXT:that are much better .
+                  TEXT:It 's important .
+                TEXT:Be a green consumer .
+          elaboration (LeftToRight)
+            elaboration (LeftToRight)
+              same-unit
+                elaboration (LeftToRight)
+                  TEXT:You have choices with everything
+                  TEXT:you buy ,
+                elaboration (LeftToRight)
+                  TEXT:between things
+                  TEXT:that have a harsh effect or a much less harsh effect on the global climate crisis .
+              TEXT:Consider this .
+            elaboration (LeftToRight)
+              elaboration (LeftToRight)
+                TEXT:Make a decision
+                TEXT:to live a carbon-neutral life .
+              elaboration (LeftToRight)
+                same-unit
+                  elaboration (LeftToRight)
+                    TEXT:Those of you
+                    TEXT:who are good at branding ,
+                  elaboration (LeftToRight)
+                    TEXT:I 'd love to get your advice and help on how to say this in a way
+                    TEXT:that connects with the most people .
+                elaboration (LeftToRight)
+                  comparison (LeftToRight)
+                    TEXT:It is easier
+                    TEXT:than you think .
+                  TEXT:It really is .
+        elaboration (LeftToRight)
+          elaboration (LeftToRight)
+            joint
+              joint
+                TEXT:A lot of us in here have made that decision
+                TEXT:and it is really pretty easy .
+              joint
+                elaboration (LeftToRight)
+                  TEXT:It means :
+                  elaboration (LeftToRight)
+                    joint
+                      elaboration (LeftToRight)
+                        TEXT:reduce your carbon dioxide emissions with the full range of choices
+                        TEXT:that you make ,
+                      TEXT:and then purchase or acquire offsets for the remainder
+                    TEXT:that you have not completely reduced .
+                TEXT:And what it means is elaborated at climatecrisis.net .
+            joint
+              joint
+                TEXT:There is a carbon calculator .
+                joint
+                  elaboration (LeftToRight)
+                    TEXT:Participant Productions convened , with my active involvement , the leading software writers in the world on this arcane science of carbon calculation
+                    TEXT:to construct a consumer-friendly carbon calculator .
+                  joint
+                    TEXT:You can very precisely calculate what your CO2 emissions are ,
+                    elaboration (LeftToRight)
+                      TEXT:and then you will be given options
+                      TEXT:to reduce .
+              joint
+                elaboration (LeftToRight)
+                  TEXT:And by the time
+                  joint
+                    TEXT:the movie comes out in May , this will be updated to 2.0
+                    TEXT:and we will have click-through purchases of offsets .
+                elaboration (LeftToRight)
+                  TEXT:Next , consider making your business carbon-neutral .
+                  elaboration (LeftToRight)
+                    joint
+                      TEXT:Again , some of us have done that ,
+                      background (LeftToRight)
+                        TEXT:and it 's not as hard
+                        TEXT:as you think .
+                    temporal
+                      TEXT:Integrate climate solutions into all of your innovations ,
+                      TEXT:whether you are from the technology , or entertainment , or design and architecture community .
+          elaboration (LeftToRight)
+            TEXT:Invest sustainably .
+            joint
+              joint
+                TEXT:Majora mentioned this .
+                joint
+                  elaboration (LeftToRight)
+                    condition (LeftToRight)
+                      TEXT:Listen ,
+                      elaboration (LeftToRight)
+                        TEXT:if you have invested money with managers
+                        TEXT:who you compensate on the basis of their annual performance , do n't ever again complain about quarterly report CEO management .
+                    TEXT:Over time , people do what you pay them to do .
+                  condition (LeftToRight)
+                    TEXT:And
+                    attribution (RightToLeft)
+                      TEXT:if they judge how much they 're going to get paid on your capital
+                      elaboration (LeftToRight)
+                        TEXT:that they 've invested ,
+                        TEXT:based on the short-term returns , you 're going to get short-term decisions .
+              joint
+                TEXT:A lot more to be said about that .
+                joint
+                  TEXT:Become a catalyst of change .
+                  joint
+                    TEXT:Teach others ;
+                    joint
+                      TEXT:learn about it ;
+                      TEXT:talk about it .
+      elaboration (LeftToRight)
+        elaboration (LeftToRight)
+          same-unit
+            elaboration (LeftToRight)
+              TEXT:The movie comes out the movie is a movie version of the slideshow
+              TEXT:I gave two nights ago ,
+            TEXT:except it 's a lot more entertaining .
+          TEXT:And it comes out in May .
+        elaboration (LeftToRight)
+          elaboration (LeftToRight)
+            joint
+              elaboration (LeftToRight)
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    enablement (LeftToRight)
+                      TEXT:Many of you here have the opportunity
+                      attribution (RightToLeft)
+                        TEXT:to ensure
+                        TEXT:that a lot of people see it .
+                    TEXT:Consider sending somebody to Nashville .
+                  TEXT:Pick well .
+                elaboration (LeftToRight)
+                  attribution (LeftToRight)
+                    joint
+                      elaboration (LeftToRight)
+                        TEXT:And I am personally going to train people to give this slideshow , re-purposed , with some of the personal stories
+                        TEXT:obviously replaced with a generic approach ,
+                      TEXT:and it 's not just the slides ,
+                    TEXT:it 's what they mean .
+                  attribution (RightToLeft)
+                    TEXT:And it 's
+                    TEXT:how they link together .
+              elaboration (LeftToRight)
+                same-unit
+                  TEXT:And
+                  joint
+                    elaboration (LeftToRight)
+                      TEXT:so I 'm going to be conducting a course this summer for a group of people
+                      enablement (LeftToRight)
+                        TEXT:that are nominated by different folks
+                        TEXT:to come and then give it , en masse , in communities all across the country ,
+                    enablement (LeftToRight)
+                      TEXT:and we 're going to update the slideshow for all of them every single week
+                      TEXT:to keep it right on the cutting edge .
+                background (RightToLeft)
+                  TEXT:Working with Larry Lessig ,
+                  same-unit
+                    TEXT:it will be ,
+                    contrast (LeftToRight)
+                      TEXT:somewhere in that process , posted with tools and limited-use copyrights ,
+                      joint
+                        TEXT:so that young people can remix it
+                        TEXT:and do it in their own way .
+            evaluation (LeftToRight)
+              elaboration (LeftToRight)
+                TEXT:Where did anybody get the idea
+                TEXT:that you ought to stay arm 's length from politics ?
+              condition (LeftToRight)
+                TEXT:It does n't mean that
+                elaboration (LeftToRight)
+                  TEXT:if you are a Republican
+                  TEXT:that I 'm trying to convince you to be a Democrat .
+          elaboration (LeftToRight)
+            elaboration (LeftToRight)
+              elaboration (LeftToRight)
+                TEXT:We need Republicans as well .
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    joint
+                      TEXT:This used to be a bipartisan issue ,
+                      attribution (RightToLeft)
+                        TEXT:and I know
+                        elaboration (LeftToRight)
+                          TEXT:that in this group
+                          TEXT:it really is .
+                    TEXT:Become politically active .
+                  elaboration (LeftToRight)
+                    TEXT:Make our democracy work the way
+                    TEXT:it 's supposed to work .
+              joint
+                elaboration (LeftToRight)
+                  TEXT:Support the idea
+                  TEXT:of capping carbon dioxide emissions , global warming pollution ,
+                TEXT:and trading it .
+            elaboration (LeftToRight)
+              elaboration (LeftToRight)
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    elaboration (LeftToRight)
+                      elaboration (LeftToRight)
+                        TEXT:Here 's why :
+                        attribution (LeftToRight)
+                          TEXT:as long as the United States is out of the world system ,
+                          TEXT:it 's not a closed system .
+                      topic-comment
+                        elaboration (LeftToRight)
+                          TEXT:Once it becomes a closed system , with U.S. participation , then everybody
+                          elaboration (LeftToRight)
+                            TEXT:who 's on a board of directors
+                            TEXT:how many people here serve on the board of directors of a corporation ?
+                        condition (RightToLeft)
+                          TEXT:Once it 's a closed system ,
+                          condition (LeftToRight)
+                            TEXT:you will have legal liability
+                            elaboration (LeftToRight)
+                              TEXT:if you do not urge your CEO
+                              elaboration (LeftToRight)
+                                TEXT:to get the maximum income
+                                elaboration (LeftToRight)
+                                  TEXT:from reducing and trading the carbon emissions
+                                  TEXT:that can be avoided .
+                    explanation (LeftToRight)
+                      condition (LeftToRight)
+                        TEXT:The market will work to solve this problem
+                        TEXT:if we can accomplish this .
+                      elaboration (LeftToRight)
+                        TEXT:Help with the mass persuasion campaign
+                        TEXT:that will start this spring .
+                  elaboration (LeftToRight)
+                    TEXT:We have to change the minds of the American people .
+                    joint
+                      enablement (LeftToRight)
+                        TEXT:Because presently the politicians do not have permission
+                        TEXT:to do what needs to be done .
+                      elaboration (LeftToRight)
+                        joint
+                          TEXT:And in our modern country , the role of logic
+                          elaboration (LeftToRight)
+                            TEXT:and reason no longer includes mediating between wealth and power the way
+                            TEXT:it once did .
+                        TEXT:It 's now repetition of short , hot-button , 30-second , 28-second television ads .
+                TEXT:We have to buy a lot of those ads .
+              elaboration (LeftToRight)
+                elaboration (LeftToRight)
+                  TEXT:Let 's rebrand global warming , as many of you have suggested .
+                  contrast
+                    TEXT:I like `` climate crisis '' instead of `` climate collapse , ''
+                    same-unit
+                      elaboration (LeftToRight)
+                        TEXT:but again , those of you
+                        TEXT:who are good at branding ,
+                      TEXT:I need your help on this .
+                elaboration (LeftToRight)
+                  elaboration (LeftToRight)
+                    joint
+                      attribution (RightToLeft)
+                        TEXT:Somebody said
+                        same-unit
+                          elaboration (LeftToRight)
+                            TEXT:the test
+                            TEXT:we 're facing now ,
+                          joint
+                            TEXT:a scientist told me ,
+                            TEXT:is whether the combination of an opposable thumb and a neocortex is a viable combination .
+                      TEXT:That 's really true .
+                    attribution (RightToLeft)
+                      TEXT:I said
+                      elaboration (LeftToRight)
+                        joint
+                          TEXT:the other night ,
+                          TEXT:and I 'll repeat now :
+                        TEXT:this is not a political issue .
+                  elaboration (LeftToRight)
+                    evaluation (LeftToRight)
+                      elaboration (LeftToRight)
+                        elaboration (LeftToRight)
+                          TEXT:Again , the Republicans here , this should n't be partisan .
+                          elaboration (LeftToRight)
+                            elaboration (LeftToRight)
+                              TEXT:You have more influence than some of us
+                              TEXT:who are Democrats do .
+                            TEXT:This is an opportunity .
+                        contrast (RightToLeft)
+                          TEXT:Not just this ,
+                          same-unit
+                            elaboration (LeftToRight)
+                              TEXT:but connected to the ideas
+                              TEXT:that are here ,
+                            TEXT:to bring more coherence to them .
+                      TEXT:We are one .
+                    attribution (RightToLeft)
+                      TEXT:Thank you very much ,
+                      TEXT:I appreciate it .
+)

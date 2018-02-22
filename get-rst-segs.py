@@ -34,8 +34,8 @@ def main():
                          'These options define arguments and parameters.')
         group.add_option('-f', '--file', metavar='FILE', default=None, dest='filename',
                      help='Location of transcript file')
-        group.add_option('--info', metavar='FILE', default='/disk/data3/clai/data/ted-trans/info/id_dname_year_sname', dest='info',
-                     help='Info file')
+        #group.add_option('--info', metavar='FILE', default='/disk/data3/clai/data/ted-trans/info/id_dname_year_sname', dest='info',
+        #             help='Info file')
         group.add_option('--alignfile', metavar='FILE', default=None, dest='alignfile',
                      help='Word timings')
         group.add_option('--metafile', metavar='FILE', default=None, dest='metafile',

@@ -13,7 +13,7 @@ endform
 #print 'ustart'
 #print 'uend''newline$'
 
-currfile$ = indir$ + wavfile$
+currfile$ = indir$ + "/" + wavfile$
 #print 'outdir$''newline$''currfile$''newline$'
 
 Read from file... 'currfile$'
