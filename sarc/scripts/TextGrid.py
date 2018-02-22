@@ -251,7 +251,10 @@ def getTiers (lines, ntiers, long=True):
 
 
 		tiertype = currlines[1].split()[2].strip("\"")
-		tiername = currlines[2].split()[2].strip("\"")
+		print tiertype
+		print currlines[2]
+		tiername = "".join(currlines[2].split()[2:]).strip("\"")
+		print tiername
 		nint = int(currlines[5].split()[3])
 		endtier = 5+4*nint 	
 
